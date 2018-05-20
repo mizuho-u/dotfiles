@@ -12,3 +12,4 @@ fi
 source ~/.nvm/nvm.sh
 
 alias cl=clear
+alias ls='ls -1'
