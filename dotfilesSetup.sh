@@ -1,7 +1,7 @@
 #! /bin/bash
 #ln -s ~/dotfiles/.vimrc ~/.vimrc
 #ln -s ~/dotfiles/.bashrc ~/.bashrc
-ln -s ~/dotfiles/.zshrc ~/.zshrc
+ln -sf ~/dotfiles/.zshrc ~/.zshrc
 #ln -s ~/dotfiles/.bash_profile ~/.bash_profile
 #ln -s ~/dotfiles/.cheetsheet.md ~/.cheetsheet.md
 #ln -s ~/dotfiles/.vim ~/.vim
