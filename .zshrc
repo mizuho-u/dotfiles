@@ -17,6 +17,7 @@ PROMPT="%n%{$fg[blue]%} %~%{$reset_color%} %(!.#.>) "
 alias ls='ls -G'
 alias ll='ls -l'
 alias la='ls -a'
+alias vi='vim'
 
 #history
 
